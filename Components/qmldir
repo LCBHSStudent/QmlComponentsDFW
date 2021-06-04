@@ -1,0 +1,25 @@
+module DFW.Components
+ResizeManager 1.0 ResizeManager.qml
+UndoManager 1.0 UndoManager.qml
+ResizeBorder 1.0 ResizeBorder.qml
+GConfig 1.0 GConfig.qml
+DragItem 1.0 DragItem.qml
+TemplateBorder 1.0 TemplateBorder.qml
+IconToolButton 1.0 IconToolButton.qml
+RoundCornerRect 1.0 RoundCornerRect.qml
+ShapedArrow 1.0 ShapedArrow.qml
+StyledButton 1.0 StyledButton.qml
+StyledSlider 1.0 StyledSlider.qml
+StyledScrollBar 1.0 StyledScrollBar.qml
+StyledComboBox 1.0 StyledComboBox.qml
+StyledMenu 1.0 StyledMenu.qml
+FilterProxyModel 1.0 FilterProxyModel.qml
+PanelSlider 1.0 PanelSlider.qml
+StyledSpinBox 1.0 StyledSpinBox.qml
+ThemeText 1.0 ThemeText.qml
+DoubleSpinBox 1.0 DoubleSpinBox.qml
+StyledCheckable 1.0 StyledCheckable.qml
+StyledComboBoxRect 1.0 StyledComboBoxRect.qml
+HoverTip 1.0 HoverTip.qml
+StyledTextField 1.0 StyledTextField.qml
+UIConfig 1.0 UIConfig.qml
